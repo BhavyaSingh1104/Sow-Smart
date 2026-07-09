@@ -1,0 +1,9 @@
+crop,variety_name,duration_days,drought_tolerant,notes
+Wheat,HD 2967,145,No,Standard high-yield variety
+Wheat,HD 3086,120,Yes,Heat and drought tolerant shorter duration
+Maize,Standard Hybrid,110,No,Standard hybrid maize
+Maize,Short-Duration Hybrid,85,Yes,Drought tolerant short duration hybrid
+Soybean,JS 335,100,No,Widely used standard variety
+Soybean,JS 20-29,80,Yes,Drought tolerant short duration variety
+Cotton,Standard Bt Hybrid,160,No,Standard cotton hybrid
+Cotton,Drought-Tolerant Bt Hybrid,135,Yes,Drought tolerant cotton hybrid
